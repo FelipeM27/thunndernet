@@ -420,8 +420,13 @@ a {
         width: 60px;
         font-size: 9px;
     }
+    #social {
+        display: inline-flex;
+        gap: 5px;
+    }
     #social img {
-        margin: 0px 5px;
+        margin: 0px 0px;
+        width: 15px;
     }
     
 }
